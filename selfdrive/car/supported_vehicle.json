@@ -6,11 +6,13 @@
       "year": "2022-2024",
       "variant": "AV",
       "acc_low_speed": true,
-      "acc_speed_range": "0 - 130",
+      "acc_speed_range": "0 - 140",
       "acc_stop_and_go": true,
       "lkc_torque": "Medium",
-      "lkc_speed_range": "0 - 130",
-      "max_steering_angle": "45°"
+      "lkc_speed_range": "0 - 140",
+      "max_steering_angle": "45°",
+      "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
+      "note": ""
     },
     {
       "brand": "Perodua",
@@ -18,11 +20,13 @@
       "year": "2019-2024",
       "variant": "AV",
       "acc_low_speed": true,
-      "acc_speed_range": "0 - 130",
+      "acc_speed_range": "0 - 140",
       "acc_stop_and_go": true,
-      "lkc_torque": "High",
-      "lkc_speed_range": "0 - 130",
-      "max_steering_angle": "45°"
+      "lkc_torque": "Medium",
+      "lkc_speed_range": "0 - 140",
+      "max_steering_angle": "45°",
+      "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
+      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal."
     },
     {
       "brand": "Perodua",
@@ -30,11 +34,13 @@
       "year": "2022-2024",
       "variant": "AV",
       "acc_low_speed": true,
-      "acc_speed_range": "0 - 130",
+      "acc_speed_range": "0 - 140",
       "acc_stop_and_go": true,
-      "lkc_torque": "High",
-      "lkc_speed_range": "0 - 130",
-      "max_steering_angle": "45°"
+      "lkc_torque": "Medium",
+      "lkc_speed_range": "0 - 140",
+      "max_steering_angle": "45°",
+      "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
+      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal."
     },
     {
       "brand": "Proton",
@@ -46,67 +52,93 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 150",
-      "max_steering_angle": "120°"
+      "max_steering_angle": "120°",
+      "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
+      "note": ""
     },
     {
       "brand": "Proton",
       "model": "X50",
-      "year": "2019-2024",
+      "year": "2019-2025",
       "variant": "Flagship",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 150",
-      "max_steering_angle": "120°"
+      "max_steering_angle": "120°",
+      "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
+      "note": ""
+    },
+    {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "2023-2025",
+      "variant": "All",
+      "acc_low_speed": false,
+      "acc_speed_range": "0 - 145",
+      "acc_stop_and_go": false,
+      "lkc_torque": "High",
+      "lkc_speed_range": "0 - 145",
+      "max_steering_angle": "45°",
+      "support": "Supports only Honda vehicles that comes with Honda Sensing.",
+      "note": ""
     },
     {
       "brand": "Honda",
       "model": "City",
-      "year": "2019-2023",
-      "variant": "V-Sensing, RS",
+      "year": "2019-2024",
+      "variant": "V-Sensing, RS, RS Hybrid",
       "acc_low_speed": false,
-      "acc_speed_range": "30 - 145",
+      "acc_speed_range": "0 - 145",
       "acc_stop_and_go": false,
       "lkc_torque": "High",
-      "lkc_speed_range": "30 - 145",
-      "max_steering_angle": "45°"
-    },
-    {
-      "brand": "Honda",
-      "model": "City FL",
-      "year": "2024",
-      "variant": "RS Hybrid",
-      "acc_low_speed": true,
-      "acc_speed_range": "0 - 145",
-      "acc_stop_and_go": true,
-      "lkc_torque": "High",
       "lkc_speed_range": "0 - 145",
-      "max_steering_angle": "45°"
+      "max_steering_angle": "45°",
+      "support": "Supports only Honda vehicles that comes with Honda Sensing.",
+      "note": "Lane Keep Assist and Adaptive Cruise Control will turn off below 30km/h for Honda City V-Sensing, RS. Low speed follow only works for RS Hybrid."
     },
     {
       "brand": "Honda",
       "model": "Civic",
-      "year": "2022-2024",
-      "variant": "FE",
+      "year": "2022-2025",
+      "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 145",
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 145",
-      "max_steering_angle": "45°"
+      "max_steering_angle": "45°",
+      "support": "Supports only Honda vehicles that comes with Honda Sensing.",
+      "note": "Civic Hatchbacks is included in this list."
     },
     {
-      "brand": "Hyundai",
-      "model": "Ioniq",
-      "year": "2017-2019",
-      "variant": "Hybrid",
-      "acc_low_speed": false,
-      "acc_speed_range": "10 - 180",
-      "acc_stop_and_go": false,
+      "brand": "Honda",
+      "model": "CRV",
+      "year": "2023-2025",
+      "variant": "All",
+      "acc_low_speed": true,
+      "acc_speed_range": "0 - 145",
+      "acc_stop_and_go": true,
       "lkc_torque": "High",
-      "lkc_speed_range": "51 - 180",
-      "max_steering_angle": "60°"
+      "lkc_speed_range": "0 - 145",
+      "max_steering_angle": "45°",
+      "support": "Supports only Honda vehicles that comes with Honda Sensing.",
+      "note": ""
+    },
+    {
+      "brand": "Honda",
+      "model": "HRV",
+      "year": "2023-2024",
+      "variant": "All",
+      "acc_low_speed": true,
+      "acc_speed_range": "0 - 145",
+      "acc_stop_and_go": true,
+      "lkc_torque": "Low",
+      "lkc_speed_range": "0 - 145",
+      "max_steering_angle": "45°",
+      "support": "Supports only Honda vehicles that comes with Honda Sensing.",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -118,7 +150,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "90°"
+      "max_steering_angle": "90°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -130,7 +164,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -142,7 +178,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -154,7 +192,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -162,11 +202,13 @@
       "year": "2022-2024",
       "variant": "AT",
       "acc_low_speed": true,
-      "acc_speed_range": "0 - 130",
+      "acc_speed_range": "0 - 140",
       "acc_stop_and_go": true,
       "lkc_torque": "Medium",
-      "lkc_speed_range": "0 - 130",
-      "max_steering_angle": "45°"
+      "lkc_speed_range": "0 - 140",
+      "max_steering_angle": "45°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Toyota",
@@ -174,11 +216,13 @@
       "year": "2023-2024",
       "variant": "G",
       "acc_low_speed": true,
-      "acc_speed_range": "0 - 130",
+      "acc_speed_range": "0 - 140",
       "acc_stop_and_go": true,
       "lkc_torque": "Medium",
-      "lkc_speed_range": "0 - 130",
-      "max_steering_angle": "30°"
+      "lkc_speed_range": "0 - 140",
+      "max_steering_angle": "30°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Lexus",
@@ -190,7 +234,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Lexus",
@@ -202,7 +248,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Lexus",
@@ -214,7 +262,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "Lexus",
@@ -226,7 +276,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 125",
-      "max_steering_angle": "60°"
+      "max_steering_angle": "60°",
+      "support": "",
+      "note": ""
     },
     {
       "brand": "BYD",
@@ -238,7 +290,9 @@
       "acc_stop_and_go": true,
       "lkc_torque": "High",
       "lkc_speed_range": "0 - 150",
-      "max_steering_angle": "120°"
+      "max_steering_angle": "120°",
+      "support": "",
+      "note": ""
     }
   ]
 }
