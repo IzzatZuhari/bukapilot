@@ -12,7 +12,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "45°",
       "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Perodua",
@@ -26,7 +26,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "45°",
       "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
-      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal."
+      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal. Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Perodua",
@@ -40,7 +40,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "45°",
       "support": "Perodua Safety Drive Assist with LKC & ACC is required.",
-      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal."
+      "note": "Braking at 0km/h will produce a brake pump sound which is completely normal. Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Proton",
@@ -54,7 +54,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Proton",
@@ -68,7 +68,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Proton",
@@ -82,7 +82,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Proton",
@@ -96,7 +96,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only Proton vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Honda",
@@ -110,7 +110,7 @@
       "lkc_speed_range": "0 - 145",
       "max_steering_angle": "45°",
       "support": "Supports only Honda vehicles that comes with Honda Sensing.",
-      "note": ""
+      "note": "Longitudinal control uses stock's Adaptive Cruise Control."
     },
     {
       "brand": "Honda",
@@ -124,7 +124,7 @@
       "lkc_speed_range": "0 - 145",
       "max_steering_angle": "45°",
       "support": "Supports only Honda vehicles that comes with Honda Sensing.",
-      "note": "Lane Keep Assist and Adaptive Cruise Control will turn off below 30km/h for Honda City V-Sensing, RS. Low speed follow only works for RS Hybrid."
+      "note": "Lane Keep Assist and Adaptive Cruise Control will turn off below 30km/h for Honda City V-Sensing, RS. Low speed follow only works for RS Hybrid. Longitudinal control uses stock's Adaptive Cruise Control."
     },
     {
       "brand": "Honda",
@@ -138,7 +138,7 @@
       "lkc_speed_range": "0 - 145",
       "max_steering_angle": "45°",
       "support": "Supports only Honda vehicles that comes with Honda Sensing.",
-      "note": "Civic Hatchbacks is included in this list."
+      "note": "Civic Hatchbacks is included in this list. Longitudinal control uses stock's Adaptive Cruise Control."
     },
     {
       "brand": "Honda",
@@ -152,7 +152,7 @@
       "lkc_speed_range": "0 - 145",
       "max_steering_angle": "45°",
       "support": "Supports only Honda vehicles that comes with Honda Sensing.",
-      "note": ""
+      "note": "Longitudinal control uses stock's Adaptive Cruise Control."
     },
     {
       "brand": "Honda",
@@ -166,7 +166,7 @@
       "lkc_speed_range": "0 - 145",
       "max_steering_angle": "45°",
       "support": "Supports only Honda vehicles that comes with Honda Sensing.",
-      "note": ""
+      "note": "Longitudinal control uses stock's Adaptive Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -180,7 +180,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "90°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -208,7 +208,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -222,7 +222,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -236,7 +236,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -250,7 +250,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Toyota",
@@ -264,7 +264,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "45°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Toyota",
@@ -278,7 +278,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "30°",
       "support": "Supports only Toyota vehicles that comes with Toyota Safety Sense 2.0.",
-      "note": ""
+      "note": "Vehicle without radar will use both bukapilot and stock braking as redundancy."
     },
     {
       "brand": "Lexus",
@@ -306,7 +306,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Lexus vehicles that comes with Lexus Safety System.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Lexus",
@@ -320,7 +320,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Lexus vehicles that comes with Lexus Safety System.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "Lexus",
@@ -334,7 +334,7 @@
       "lkc_speed_range": "0 - 140",
       "max_steering_angle": "60°",
       "support": "Supports only Lexus vehicles that comes with Lexus Safety System.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "BYD",
@@ -348,7 +348,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "BYD",
@@ -362,7 +362,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "BYD",
@@ -376,7 +376,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "BYD",
@@ -390,7 +390,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     },
     {
       "brand": "BYD",
@@ -404,7 +404,7 @@
       "lkc_speed_range": "0 - 150",
       "max_steering_angle": "120°",
       "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
-      "note": ""
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
     }
   ]
 }
