@@ -3,7 +3,7 @@
     {
       "brand": "Perodua",
       "model": "Alza",
-      "year": "2022-2025",
+      "year": "2022-2026",
       "variant": "AV",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -17,7 +17,7 @@
     {
       "brand": "Perodua",
       "model": "Ativa",
-      "year": "2019-2025",
+      "year": "2019-2026",
       "variant": "AV",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -31,7 +31,7 @@
     {
       "brand": "Perodua",
       "model": "Myvi",
-      "year": "2022-2025",
+      "year": "2022-2026",
       "variant": "AV",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -45,7 +45,7 @@
     {
       "brand": "Proton",
       "model": "S70",
-      "year": "2025",
+      "year": "2026",
       "variant": "Flagship, Flagship X",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -73,7 +73,7 @@
     {
       "brand": "Proton",
       "model": "X50 FL",
-      "year": "2025",
+      "year": "2025-2026",
       "variant": "Premium, Flagship",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -86,8 +86,8 @@
     },
     {
       "brand": "Proton",
-      "model": "X70",
-      "year": "2024-2025",
+      "model": "X70 FL",
+      "year": "2024-2026",
       "variant": "Premium, Premium X",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -101,7 +101,7 @@
     {
       "brand": "Proton",
       "model": "X90",
-      "year": "2024-2025",
+      "year": "2024-2026",
       "variant": "Premium, Flagship",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -143,7 +143,7 @@
     {
       "brand": "Honda",
       "model": "City FL",
-      "year": "2023-2025",
+      "year": "2023-2026",
       "variant": "RS Hybrid",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 145",
@@ -157,7 +157,7 @@
     {
       "brand": "Honda",
       "model": "Civic",
-      "year": "2022-2025",
+      "year": "2022-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 145",
@@ -185,7 +185,7 @@
     {
       "brand": "Honda",
       "model": "HRV",
-      "year": "2023-2025",
+      "year": "2023-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 145",
@@ -226,7 +226,7 @@
     },
     {
       "brand": "Toyota",
-      "model": "Corolla",
+      "model": "Corolla Altis",
       "year": "2020-2024",
       "variant": "G, Hybrid",
       "acc_low_speed": true,
@@ -241,7 +241,7 @@
     {
       "brand": "Toyota",
       "model": "Corolla Cross",
-      "year": "2022-2025",
+      "year": "2022-2026",
       "variant": "V, Hybrid",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -269,7 +269,7 @@
     {
       "brand": "Toyota",
       "model": "Innova Zenix",
-      "year": "2024",
+      "year": "2024-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -283,7 +283,7 @@
     {
       "brand": "Toyota",
       "model": "Veloz",
-      "year": "2022-2025",
+      "year": "2022-2026",
       "variant": "AT",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -297,7 +297,7 @@
     {
       "brand": "Toyota",
       "model": "Vios",
-      "year": "2023-2025",
+      "year": "2023-2026",
       "variant": "G",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 140",
@@ -367,7 +367,7 @@
     {
       "brand": "BYD",
       "model": "Atto 3",
-      "year": "2023-2025",
+      "year": "2023-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -381,7 +381,7 @@
     {
       "brand": "BYD",
       "model": "Dolphin",
-      "year": "2023-2025",
+      "year": "2023-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -395,7 +395,7 @@
     {
       "brand": "BYD",
       "model": "M6",
-      "year": "2025",
+      "year": "2025-2026",
       "variant": "Extended",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -409,7 +409,7 @@
     {
       "brand": "BYD",
       "model": "Seal",
-      "year": "2024-2025",
+      "year": "2024-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
@@ -423,7 +423,7 @@
     {
       "brand": "BYD",
       "model": "Sealion 7",
-      "year": "2025",
+      "year": "2025-2026",
       "variant": "All",
       "acc_low_speed": true,
       "acc_speed_range": "0 - 150",
