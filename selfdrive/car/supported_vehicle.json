@@ -380,6 +380,20 @@
     },
     {
       "brand": "BYD",
+      "model": "Atto 3 Ultra",
+      "year": "2025-2026",
+      "variant": "All",
+      "acc_low_speed": true,
+      "acc_speed_range": "0 - 150",
+      "acc_stop_and_go": true,
+      "lkc_torque": "Very High",
+      "lkc_speed_range": "0 - 150",
+      "max_steering_angle": "120°",
+      "support": "Supports only BYD vehicles that comes with Lane Keep Assist and Adaptive Cruise Control.",
+      "note": "This vehicle gets full Lane Keep Assist and Intelligent Cruise Control."
+    },
+    {
+      "brand": "BYD",
       "model": "Dolphin",
       "year": "2023-2026",
       "variant": "All",
